@@ -1,0 +1,17 @@
+{
+  "name": "pm-skills",
+  "owner": {
+    "name": "estherchols"
+  },
+  "metadata": {
+    "description": "Product management skills for Claude Code and Claude.ai",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "pm-skills",
+      "source": "./",
+      "description": "PRDs, user stories, prioritization, research synthesis, competitive analysis, metrics & OKRs, experiment design, and launch planning."
+    }
+  ]
+}

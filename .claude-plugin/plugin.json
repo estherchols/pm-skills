@@ -1,0 +1,12 @@
+{
+  "name": "pm-skills",
+  "version": "1.0.0",
+  "description": "Product management skills for Claude: PRDs, user stories, prioritization, research synthesis, competitive analysis, metrics & OKRs, experiment design, and launch planning.",
+  "author": {
+    "name": "estherchols"
+  },
+  "homepage": "https://github.com/estherchols/pm-skills",
+  "repository": "https://github.com/estherchols/pm-skills",
+  "license": "MIT",
+  "keywords": ["product-management", "prd", "user-stories", "prioritization", "okrs", "experiments", "launch"]
+}
